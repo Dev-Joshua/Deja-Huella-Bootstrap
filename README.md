@@ -8,4 +8,4 @@
 - La maquetacion hecha con HTML y Bootstrap
 - Para el posicionamiento de los contenedores y contenido use flex-box
 
-Nota: Para ver la pagina ingresar a la rama gh-pages y darle click al enlace.
+
